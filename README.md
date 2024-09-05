@@ -94,13 +94,6 @@
 - Parámetros rústicos.
 - Limitaciones de uso.
 
-## <h2 align=center> Tecnologías y Metodologías Adicionales </h2>
-
-- **Git**: Para el control de versiones y gestión de actualizaciones.
-- **APIs**: Para la integración con sistemas ERP y otras herramientas.
-- **Google Sheets**: Para la personalización y generación de informes.
-- **Apache JMeter**: Para pruebas de rendimiento y estrés.
-
 ## <h2 align=center> Medición del Éxito </h2>
 
 - **KPIs**: Precisión de los informes financieros, eficiencia en el procesamiento de datos, y capacidad de manejo de transacciones simultáneas.
@@ -119,21 +112,21 @@
 
 - **Sistema**: Control de versiones con Git, gestión mediante ramas específicas, revisiones de código y pruebas.
 
-## <h2 align=center> Informes Financieros </h2>
+## <h3 align=left> Informes Financieros </h3>
 
 - **Tipos**: Estado financiero, análisis de flujo de efectivo, balances de cuenta.
 - **Personalización**: Plantillas en Google Sheets con opciones para seleccionar períodos y ajustar parámetros.
 
-## <h2 align=center> Seguridad </h2>
+## <h3 align=left> Seguridad </h3>
 
 - **Medidas**: Autenticación de dos factores, cifrado de datos, control de acceso basado en roles, auditorías de seguridad.
 
-## <h2 align=center> Pruebas y Rendimiento </h2>
+## <h3 align=left> Pruebas y Rendimiento </h3>
 
 - **Pruebas**: Rendimiento con hasta 10,000 transacciones simultáneas, pruebas unitarias de cada módulo.
 - **Resultados**: Sin problemas de rendimiento detectados, informes precisos y rápidos.
 
-## <h2 align=center> Optimización Continua </h2>
+## <h3 align=left> Optimización Continua </h3>
 
 - **Próximos Pasos**: Implementación de nuevas funcionalidades basadas en feedback, mejora en la integración de datos, optimización del rendimiento.
 
