@@ -1,4 +1,6 @@
-![FinDataSync Banner](https://github.com/nicolasramirezperilla/FinDataSync/blob/master/Logo%20-%20FinData%20Sync.png)
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/FinDataSync/blob/master/Logo%20-%20FinData%20Sync.png" alt="FinDataSync Banner" width="500"/>
+</div>
 
 # <h1 align=center> *Proyecto: FinDataSync* </h1>
 
@@ -7,6 +9,14 @@
 ## <h2 align=center> Descripción </h2>
 
 **FinDataSync** es un proyecto clave implementado en BBVA para automatizar y optimizar la sincronización de datos financieros. Este proyecto se centra en mejorar la velocidad y efectividad del procesamiento de datos, garantizando la entrega rápida de informes significativos y precisos. A través de la utilización de Python y bibliotecas especializadas, FinDataSync maneja grandes volúmenes de información, reduciendo significativamente los tiempos de procesamiento y asegurando la creación de reportes financieros de alta relevancia estratégica.
+
+## <h2 align=center> Equipo del Proyecto </h2>
+
+- **Nicolás Ramírez Perilla**: Líder y único colaborador. Su experiencia incluye proyectos previos en Colsubsidio y CVN, y un enfoque en la automatización y optimización de procesos de datos.
+
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/FinDataSync/blob/master/Team%20Work.png" alt="FinDataSync TeamWork" width="300"/>
+</div>
 
 ## <h2 align=center> Funciones del Script </h2>
 
@@ -101,16 +111,17 @@
 - **KPIs**: Precisión de los informes financieros, eficiencia en el procesamiento de datos, y capacidad de manejo de transacciones simultáneas.
 - **Resultados**: El sistema manejó hasta 10,000 transacciones simultáneas sin degradación del rendimiento.
 
-## <h2 align=center> Equipo del Proyecto </h2>
-
-- **Nicolás Ramírez Perilla**: Líder y único colaborador. Su experiencia incluye proyectos previos en Colsubsidio y CVN, y un enfoque en la automatización y optimización de procesos de datos.
-
 ## <h2 align=center> Fuentes de Datos y Integración </h2>
 
 - **Fuentes**: Sistemas ERP, hojas de cálculo en Google Sheets, bases de datos SQL.
 - **Integración**: Utilización de APIs para sistemas ERP y scripts de Python para Google Sheets y bases de datos.
 
-## <h2 align=center> Gestión de Versiones y Actualizaciones </h2>
+
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/FinDataSync/blob/master/ETL%20Flow%20Chart%20-%20FinData%20Sync.png" alt="FinDataSync ETL" width="600"/>
+</div>
+
+## <h3 align=left> Gestión de Versiones y Actualizaciones </h3>
 
 - **Sistema**: Control de versiones con Git, gestión mediante ramas específicas, revisiones de código y pruebas.
 
