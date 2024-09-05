@@ -1,3 +1,5 @@
+![FinDataSync Banner](https://github.com/nicolasramirezperilla/FinDataSync/blob/master/Logo%20-%20FinData%20Sync.png)
+
 # <h1 align=center> *Proyecto: FinDataSync* </h1>
 
 ---
